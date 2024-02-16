@@ -1,0 +1,13 @@
+addCalc.v
+addCalc_8bit.v
+alu.v
+counter.v
+dffe_ref.v
+divider.v
+multdiv.v
+multdiv_tb.v
+multiplier.v
+reg_32bit.v
+reg_64bit.v
+reg_65bit.v
+tff.v
